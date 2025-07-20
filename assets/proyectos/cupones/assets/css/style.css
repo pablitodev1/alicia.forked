@@ -1,0 +1,26 @@
+.color-navbar {
+  background-color: #28a745;
+}
+.card-font-title {
+  font-family: 'Roboto', sans-serif;  
+  font-size: 1.25rem;
+}
+.card-font-desc{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  color: #707070;
+}
+.card-font-direct{
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8rem;
+  color: #707070;
+}
+.card-font-precio{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25rem;
+  color: #28A745;
+}
+.form-font-title {
+  font-family: 'Roboto', sans-serif;  
+  font-size: 1.333rem;
+}
